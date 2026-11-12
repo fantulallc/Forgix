@@ -1,12 +1,11 @@
-# 凡图拉出海 · Fantula Studio
+# 凡图拉管家 · FANTULA GUANJIA
 
-> Global Brand & Digital Growth Studio
+> 用中文办美国公司，注册、EIN、年报都在这里管
 
-帮工厂、跨境卖家和软件团队做海外品牌、建站与获客。
-Websites · Apps · Social media · Google SEO · Global payments
-
-- 🌐 Website: [www.fantula.net](https://www.fantula.net)
-- 凡图拉（FANTULA）旗下另有面向个人的数字商品商城：[凡图拉商城](https://www.fantula.com)
+- 🌐 官网：[guanjia.fantula.cn](https://guanjia.fantula.cn)
+- 您的公司管家：注册海外公司 · 国内公司管家 · 业务覆盖注册商标 等
+- 运营主体：云南凡图拉科技有限公司；美国主体 FANTULA LLC（怀俄明州）
+- 凡图拉（FANTULA）旗下另有面向个人的数字商品商城：[凡图拉商城](https://www.fantula.cn)
 
 ## Articles
 
